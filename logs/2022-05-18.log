@@ -1,0 +1,7 @@
+2022-05-18 22:42:21,821|    INFO|case_login.py[:86]|http://www.testxc.com:8000/article
+2022-05-18 22:42:21,822|    INFO|case_login.py[:41]|请求参数：{'username': 'huang123456', 'password': 'hd.123456'}
+2022-05-18 22:43:20,812|    INFO|case_login.py[:86]|http://www.testxc.com:8000/article
+2022-05-18 22:43:20,814|    INFO|case_login.py[:41]|请求参数：{'username': 'huang123456', 'password': 'hd.123456'}
+2022-05-18 22:44:03,882|    INFO|case_login.py[:86]|http://www.testxc.com:8000/article
+2022-05-18 22:44:03,884|    INFO|case_login.py[:41]|请求参数：{'username': 'huang123456', 'password': 'hd.123456'}
+2022-05-18 22:44:04,032|    INFO|case_login.py[:105]|请求参数：{'content': '测试内容', 'title': '标题C002'}

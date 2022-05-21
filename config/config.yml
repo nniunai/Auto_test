@@ -1,0 +1,18 @@
+
+demotest: SSAXOZHDPOPCJRMG
+
+base:
+  # log等级
+  log_level: "debug"
+  log_extension: ".log"
+
+  test:
+    url: "http://www.testxc.com:8000"
+    case_file: "case_api.xlsx"
+    case_sheet: "Sheet1"
+
+email:
+  smtpserver: "smtp.163.com"
+  username: "demotest2022@163.com"
+  password: "SSAXOZHDPOPCJRMG"
+  receiver: "testboy0@163.com"

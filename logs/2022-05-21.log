@@ -1,0 +1,15 @@
+2022-05-21 08:22:22,406|    INFO|base.py[:87]|生成测试报告执行命令：allure generate D:\PycharmProjects\API_Automate\report\result -o D:\PycharmProjects\API_Automate\report\html --clean
+2022-05-21 08:35:16,303|    INFO|base.py[:87]|生成测试报告执行命令：allure generate D:\PycharmProjects\API_Automate\report\result -o D:\PycharmProjects\API_Automate\report\html --clean
+2022-05-21 08:45:11,867|    INFO|case_login.py[:106]|http://www.testxc.com:8000/article
+2022-05-21 08:45:11,867|    INFO|case_login.py[:112]|需要执行前置用例：{'用例编号': 'C001', '模块': '登录', '接口名称': '登录', '请求url': '/xc/login', '前置条件': None, '请求类型': 'post', '请求参数类型': 'json', '请求参数': '{"username":"huang123456","password":"hd.123456"}', '请求头': None, '预期结果': '成功', '实际结果': None, '备注': None, '是否运行': 'n', 'status_code': 200, '数据库验证': None}
+2022-05-21 08:45:11,869|    INFO|case_login.py[:51]|请求参数：{'username': 'huang123456', 'password': 'hd.123456'}
+2022-05-21 08:45:12,154|    INFO|case_login.py[:51]|请求参数：{'content': '测试内容', 'title': '标题C002'}
+2022-05-21 08:45:14,637|    INFO|base.py[:87]|生成测试报告执行命令：allure generate D:\PycharmProjects\API_Automate\report\result -o D:\PycharmProjects\API_Automate\report\html --clean
+2022-05-21 09:42:57,452|    INFO|case_login.py[:106]|http://www.testxc.com:8000/article
+2022-05-21 09:42:57,452|    INFO|case_login.py[:112]|需要执行前置用例：{'用例编号': 'C001', '模块': '登录', '接口名称': '登录', '请求url': '/xc/login', '前置条件': None, '请求类型': 'post', '请求参数类型': 'json', '请求参数': '{"username":"huang123456","password":"hd.123456"}', '请求头': None, '预期结果': '成功', '实际结果': None, '备注': None, '是否运行': 'n', 'status_code': 200, '数据库验证': None}
+2022-05-21 09:42:57,454|    INFO|case_login.py[:51]|请求参数：{'username': 'huang123456', 'password': 'hd.123456'}
+2022-05-21 09:42:57,718|    INFO|case_login.py[:51]|请求参数：{'content': '测试内容', 'title': '标题C002'}
+2022-05-21 10:15:31,427|    INFO|case_login.py[:106]|http://www.testxc.com:8000/article
+2022-05-21 10:15:31,427|    INFO|case_login.py[:112]|需要执行前置用例：{'用例编号': 'C001', '模块': '登录', '接口名称': '登录', '请求url': '/xc/login', '前置条件': None, '请求类型': 'post', '请求参数类型': 'json', '请求参数': '{"username":"huang123456","password":"hd.123456"}', '请求头': None, '预期结果': '成功', '实际结果': None, '备注': None, '是否运行': 'n', 'status_code': 200, '数据库验证': None}
+2022-05-21 10:15:31,428|    INFO|case_login.py[:51]|请求参数：{'username': 'huang123456', 'password': 'hd.123456'}
+2022-05-21 10:15:32,255|    INFO|case_login.py[:51]|请求参数：{'content': '测试内容', 'title': '标题C002'}

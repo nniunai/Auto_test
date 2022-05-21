@@ -1,0 +1,10 @@
+
+
+
+# 测试数据库
+db_test01:
+  host: "106.14.225.213"
+  user: "hduser8000"
+  psswrd: "hd123456"
+  database: "test_16"
+  port: "3306"

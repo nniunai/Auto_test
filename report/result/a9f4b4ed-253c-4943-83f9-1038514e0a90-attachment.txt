@@ -1,0 +1,4 @@
+INFO     D:\PycharmProjects\API_Automate\utils\logUtils.py:case_login.py:106 http://www.testxc.com:8000/article
+INFO     D:\PycharmProjects\API_Automate\utils\logUtils.py:case_login.py:112 需要执行前置用例：{'用例编号': 'C001', '模块': '登录', '接口名称': '登录', '请求url': '/xc/login', '前置条件': None, '请求类型': 'post', '请求参数类型': 'json', '请求参数': '{"username":"huang123456","password":"hd.123456"}', '请求头': None, '预期结果': '成功', '实际结果': None, '备注': None, '是否运行': 'n', 'status_code': 200, '数据库验证': None}
+INFO     D:\PycharmProjects\API_Automate\utils\logUtils.py:case_login.py:51 请求参数：{'username': 'huang123456', 'password': 'hd.123456'}
+INFO     D:\PycharmProjects\API_Automate\utils\logUtils.py:case_login.py:51 请求参数：{'content': '测试内容', 'title': '标题C002'}
